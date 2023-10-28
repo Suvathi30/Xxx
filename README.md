@@ -92,7 +92,7 @@ IMG_20231027_183934.jpg
             <div class="header-content">
                 <!--Add your profile picture here-->
                 <img src="" alt="" class="">
-                <h1>Noorul Afzha.N</h1>
+                <h1>suvathi</h1>
                 <p>I'm webdesigner</p>
             </div>
         </header>
@@ -109,3 +109,50 @@ IMG_20231027_183934.jpg
         <section id="about">
             <div class="section-content">
                 <h2>About Me</h2>
+<p>Hello Everyone! I'm suvathi p I'm Final Year Undergraduate student in computer Application. <br> Having Knowledge in computer languages(C,C++,Java,SQL),photoshop. <br> Future Software programming and Web design specialist.</p>
+            </div>
+        </section>
+
+        <section id="Skills">
+            <div class="section-content">
+                <h2>Skills</h2>
+                <u1>
+                    <li>Programming</li>
+                    <li>Photoshop</li>
+                    <li>Flash</li>
+                    <li>Web Design</li>
+                </u1>
+            </div>
+            </section>
+
+            <section id="Education">
+                <div class="section-content">
+                    <h2>Education:</h2>
+                    <ul>
+                        <li>2021-2024 <br> Bachelor of Computer Appplication</li>
+                        <li>Idhaya College For Women, <br> Bharathidasan University, <br> Kumbakonam-Tamilnadu</li>
+                        <li>2020-2021, <br> Higher Secondary</li>
+                        <li>Rice city, <br> Matric Higher Secondary School, <br> Aduthurai-Tamilnadu </li>
+                    </ul>
+                </div>
+            </section>
+
+            <section id="contact">
+                <div class="section-content">
+                    <h2>contact</h2>
+                    <form>
+                    <label for="email">Email</label>
+                    <input type="text" id="email"> <br> <br>
+                    <label for="number">Number</label>
+                    <input type="number" id="number"> <br> <br>
+                    <label for="Address">Address</label>
+                    <input type="text" id="Address">
+                </form>
+              </div>
+              </section>
+
+         <footer>
+                <p>&copy; 2023 suvathi</p>
+        </footer>
+    </body>
+</html>
